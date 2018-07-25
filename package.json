@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/mgonto/heroku-static-file-server",
   "dependencies": {
-    "serve": "^1.4.0"
+    "serve": "^3.3.0"
   }
 }
